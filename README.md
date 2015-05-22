@@ -1,7 +1,9 @@
 PHP Library Template
 ====================
 
-Clone this repository to get a fresh starting place for a new PHP library.
+Template PHP Library with Composer and PHPUnit
+
+To use, clone this repository, delete the ``.git`` directory, and ``git init`` to start your project with a fresh history.
 
 This repository provides these files as samples:
 - .gitattributes
