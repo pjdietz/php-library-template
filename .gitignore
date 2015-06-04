@@ -2,7 +2,7 @@
 vendor/
 
 # Code coverage report
-report/
+coverage/
 
 # IDE
 .idea/
